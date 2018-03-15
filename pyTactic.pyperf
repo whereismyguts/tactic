@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>4841d855-878c-4917-af33-57492853358d</TargetProject>
+    <FriendlyName>pyTactic</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Карманов\AppData\Local\Temp\pyTactic_20180314.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
